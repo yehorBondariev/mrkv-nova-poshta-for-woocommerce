@@ -1,0 +1,66 @@
+.еwoocommerce-shipping-destination{
+  display: none;
+}
+.woocommerce-input-wrapper .select2-container{
+  width: 100% !important;
+}
+.woocommerce-input-wrapper .select3-container{
+  width: 100% !important;
+}
+.select{
+  background: none;
+    color: #444;
+    padding: 2px;
+    border-radius: 4px;
+}
+  span.select2-container--default .select2-selection--single .select2-selection__placeholder {
+    color: #444;
+}
+/* SelectDB */
+#billing_mrk_nova_poshta_city,
+#billing_mrk_nova_poshta_warehouse,
+#billing_mrk_nova_poshta_poshtomat {
+	background-color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    height: 27px;
+}
+#cities-list,
+#warehouses-list,
+#poshtomats-list {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	max-height: 165px;
+	margin:0;
+}
+#cities-list li.npcityli,
+#warehouses-list li.npwhli,
+#poshtomats-list li.nppmli {
+	line-height: 1.6;
+	margin-bottom: 3px;
+	padding: 6px;
+}
+#cities-list li:first-child,
+#warehouses-list li:first-child,
+#poshtomats-list li:first-child,
+#cities-list li:last-child,
+#warehouses-list li:last-child,
+#poshtomats-list li:last-child {
+	margin-top: 3px;
+}
+#cities-list li:hover,
+#warehouses-list li:hover,
+#poshtomats-list li:hover {
+	background-color: #5897fb;
+	color: #fff;
+	cursor: pointer;
+	white-space: nowrap;
+}
+#npdatafetch,
+#npdatafetchwh,
+#npdatafetchpm {
+	display: none;
+}
+.border-radius-zero {
+	border-radius: 4px !important;
+}

@@ -1,0 +1,475 @@
+.addressformnpttn{
+  width: 100%
+}
+.addressformnpttn td{
+  padding-right: 0;
+}
+.form-table td p.afterradio{
+  width: calc(100% - 30px);
+    display: block;
+    float: right;
+    margin-top: 0;
+}
+.allsettings input[type=text]{
+  width: 100%;
+}
+.allsettings input.uai{
+      width: calc(100% - 30px);
+      float: right;
+    margin-top: -8px;
+  }
+  .w70 .form-table tr th{
+  min-width: 320px;
+}
+.h3as th{
+  padding-bottom: 0;
+}
+.allsettings{
+  display: none;
+}
+
+.allsettings.show{
+   display: table-row;
+}
+#tab-1>form>h2{
+  display: none;
+}
+.selector h2{
+  display: inline-block;
+  font-size: 14px;
+margin-left: 8px;
+}
+.selector select{
+    display: inline-block;
+    margin-left: 24px;
+}
+td.pb0{
+padding-bottom: 0 !important;
+}
+span.shortspan{    border: 1px solid #a5a5a5;
+    display: inline-block;
+    padding: 1px 6px;
+    background: #eee;
+    background: linear-gradient(5deg, #dedede, #f1f1f1);
+    color: #000;
+    border-radius: 3px;
+}
+select.shortspan{
+    width: 106px;
+    vertical-align: top;
+    height: 22px;
+    margin: 0 2px;
+    border: 1px solid #a5a5a5;
+    display: inline-block;
+    padding: 1px 6px;
+    background: #eee;
+    background: linear-gradient(5deg, #dedede, #f1f1f1);
+    color: #000;
+    border-radius: 3px;
+}
+#standarttext{
+    float: left;
+    padding: 2px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin-top: -24px;
+    position: relative;
+    cursor: pointer;
+}
+#standarttext:hover{
+    cursor: pointer;
+}
+.updated .card {
+	border: none;
+	display: table-cell;
+	width: 50%;
+}
+.light {
+    font-weight: normal !important;
+}
+p.light{
+	    margin-top: -16px;
+}
+.full-width-input input[type="text"],
+.full-width-input textarea {
+	width: 100%;
+}
+
+.formblock_title {
+	background-color: #e2e2e2;
+	padding: 10px;
+}
+
+.imginwpbtn {
+	position: absolute;
+	top: 0;
+	left: 6px;
+	width: 25px;
+	height: 25px;
+}
+#morkvanp_email_editor_id{
+	color: #423d3d;
+	height: 200px;
+	display: block !important;
+}
+#mceu_24{
+	display: none;
+}
+.card .wpbtn {
+	height: auto;
+	padding-left: 36px;
+	position: relative;
+}
+
+.m0 {
+	margin: 0;
+}
+
+.container .mtb16 {
+	margin: 0;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+#wp-morkvanp_email_editor_id-editor-tools{
+	display: none;
+}
+#email_sent>img{
+	display: none !important;
+}
+.clr {
+	clear: both
+}
+
+.np_order_data_h2 {
+	margin-bottom: 0;
+    font-family: HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.2;
+    text-shadow: 1px 1px 1px #fff;
+    padding: 0
+}
+
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.form-invoice {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 20px;
+	margin-top: 12px;
+}
+
+.form-invoice .updated {
+	width: 99.3% !important;
+}
+
+.form-invoice>.alink {
+	grid-column: 1 / -1;
+	margin-top: -20px;
+}
+.alink a{
+	margin-right: 20px;
+}
+.settingsgrid {
+	display: grid !important;
+	grid-template-columns: 2fr 1fr;
+}
+
+label.inl {
+	display: inline-block;
+	width: 31%;
+	margin-left: 1%;
+}
+
+label.inl:first-child {
+	width: 33%;
+	margin-left: 0;
+}
+
+.wpbtn {}
+
+.header a.vam {
+	vertical-align: middle;
+}
+
+th[scope="row"],
+tr th p {
+	padding-left: 8px;
+}
+
+.card.text-white.bg-danger {
+	clear: both;
+}
+
+td input[type=checkbox] {
+	max-width: 25px;
+}
+
+.formsubmit {
+	cursor: pointer;
+}
+
+.tablecontainer {
+	display: block;
+	float: left;
+	width: 100%;
+	/* background: #fff; */
+	margin-right: 1%;
+}
+
+.tablecontainer table {
+	background: #fff;
+}
+
+.tablecontainer td {
+	padding-top: 0;
+	padding-bottom: 30px;
+}
+
+.tablecontainer td #submit {
+	margin-top: 30px;
+}
+
+table tr td.pb7 {
+	padding-bottom: 2px;
+}
+
+.tablecontainer th {
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+
+.tablecontainer th h3 {
+	margin-top: 0;
+}
+
+.w70 {
+	width: 70%;
+	float: left;
+}
+.settingsgrid .w70{
+  width: 94%;
+}
+
+.p0 {
+	padding: 0 !important;
+	margin-top: 8px !important;
+}
+
+.ttntable th,
+.ttntable td {
+	vertical-align: middle;
+}
+
+#wpwrap #wpcontent {
+	padding-right: 20px;
+}
+
+body>#wpfooter {
+	position: relative;
+}
+
+.lastrow {
+	width: auto;
+	display: none;
+}
+
+.firstrow {
+	width: 400px;
+}
+form.form-invoice>#messageboxnp {
+    grid-column: 1 / -1;
+    margin: 0;
+    margin-top: 8px;
+    height: 0;
+    transition: all 1s ease;
+    overflow: hidden;
+    background: #fff;
+    padding: 0;
+    border-left-width: 4px;
+}
+form.form-invoice .error {
+	color: #dc3232;
+    height: auto !important;
+    visibility: visible !important;
+}
+.messagebox_show {
+	display: block;
+}
+#errnonp>div{
+	overflow: hidden;
+}
+#errnonp {
+	position: relative;
+}
+#nnnid{
+	opacity: 0;
+	z-index: -10;
+    position: relative;
+}
+#messageboxnp > div{
+	width: 100%;
+	max-width: 100%;
+}
+#messageboxnp div.card {
+    width: 100%;
+    max-width: 100%;
+    border: none;
+    border-left-width: 4px;
+    padding: 15px;
+    margin: 0;
+    box-shadow: none;
+}
+#messageboxnp > div > p{
+	width: 50%;
+	float: left;
+	margin: 0;
+padding: 0;
+color: #23282d;
+}
+#messageboxnp > div > p br{
+	display: block;
+	margin:0 !important;
+}
+@media screen and (max-width: 1200px) {
+	.idrow {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 782px) {
+	.form-invoice {
+		display: block;
+	}
+	.updated .mtb16 p {
+		padding: 5%;
+	}
+	.lastrow .button {
+		width: 100%;
+		padding-left: 8px;
+		text-align: left;
+	}
+	.lastrow a img {
+		padding-right: 8px;
+	}
+	.daterow {
+		display: none;
+	}
+	.townrow {
+		display: none;
+	}
+	.firstrow .row-actions {
+		display: none !important;
+	}
+	.firstrow {
+		width: 114px;
+	}
+	.lastrow {
+		width: 166px;
+		display: table-cell;
+	}
+	.w70 {
+		width: 100%;
+		float: none;
+	}
+	.p0 {
+		padding: 0 !important;
+		width: 98% !important;
+		margin-top: 8px !important;
+	}
+	.ttntable th,
+	.ttntable td {
+		vertical-align: middle;
+	}
+	#wpwrap #wpcontent {
+		padding-right: 20px;
+	}
+	input[type=checkbox],
+	input[type=radio] {
+		max-width: 25px;
+	}
+	td input[type=checkbox] {
+		max-width: 25px;
+	}
+	td.flexd {
+		display: flex;
+	}
+	td input.w24 {
+		width: 24px
+	}
+	.updated .card {
+		display: block;
+		width: 90%;
+		background: none;
+		min-width: 80%;
+		max-width: 100%;
+	}
+	input[type=checkbox] {
+		width: auto;
+	}
+	td>input[type=checkbox] {
+		margin-top: 0;
+		max-width: 25px;
+	}
+	.tablecontainer {
+		display: block;
+		float: none;
+		width: 96%;
+		background: #fff;
+		margin-right: 1%;
+		padding: 3%;
+	}
+}
+
+@media screen and (max-width: 582px) {
+	.nav-tab-active {
+		margin-bottom: 0;
+		color: #444 !important;
+	}
+	.lastrow .button {
+		width: 32px;
+		padding-right: 8px;
+		padding-left: 8px !important;
+		color: transparent !important;
+	}
+	.lastrow {
+		width: 40px;
+		display: table-cell;
+		text-align: center !important;
+	}
+	.newnaw .nav-tab {
+		float: left;
+		border: none;
+		border-bottom: none;
+		margin-left: 0;
+		padding: 0px 4px;
+		font-size: 12px;
+		line-height: 24px;
+		font-weight: normal;
+		background: #e5e5e500;
+		color: #0085ba;
+		text-decoration: underline;
+		white-space: nowrap;
+	}
+	h1 {
+		font-size: 1.2em;
+	}
+	.settingsgrid {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.firstrow {
+		width: 58px;
+	}
+	.firstrow a {
+		word-wrap: break-word;
+	}
+}
